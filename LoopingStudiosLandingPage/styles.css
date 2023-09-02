@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-image: url('images/desktop/image-hero.jpg');
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+header img {
+    visibility: hidden;
+    z-index: 1;
+}
+
+nav img{
+    visibility:visible;
+}
